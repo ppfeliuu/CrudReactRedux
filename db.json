@@ -1,0 +1,24 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Redux v7",
+      "precio": "30"
+    },
+    {
+      "id": 2,
+      "nombre": "React",
+      "precio": 20
+    },
+    {
+      "id": 3,
+      "nombre": "Angular",
+      "precio": 15
+    },
+    {
+      "id": 4,
+      "nombre": "C#",
+      "precio": "55"
+    }
+  ]
+}
